@@ -1,0 +1,48 @@
+body {
+  padding: 0;
+  margin: 0 auto;
+  max-width: 1400px;
+}
+body * {
+  padding: 0;
+  margin: 0;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* necessary or will show nothing */
+.leaflet-container {
+  min-height: 600px;
+}
+
+textarea {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+footer {
+  margin-top: 20px;
+  background: #ccc;
+  padding: 20px;
+  font-size: 0.5rem;
+}
+
+header {
+  background: #e37933;
+  padding: 20px;
+}
+
+h3 {
+  margin-bottom: 10px;
+}
+
+.route-data-explainer ul {
+  margin-left: 20px;
+  padding-left: 20px;
+}
+
+.route-data-explainer li {
+  text-align: left;
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "departure_city": "Sochi",
+    "arrival_city": "Kogalym",
+    "delta_longitude": 18.7404975891109,
+    "flight_no": "PG0326",
+    "departure_longitude": 43.449901580811,
+    "arrival_longitude": 62.1903991699219,
+    "departure_coordinates": {
+      "x": 39.956600189209,
+      "y": 43.449901580811
+    },
+    "arrival_coordinates": {
+      "x": 74.5337982177734,
+      "y": 62.1903991699219
+    }
+  },
+  {
+    "departure_city": "Khabarovsk",
+    "arrival_city": "Anadyr",
+    "delta_longitude": 16.2069015502927,
+    "flight_no": "PG0088",
+    "departure_longitude": 48.52799987793,
+    "arrival_longitude": 64.7349014282227,
+    "departure_coordinates": {
+      "x": 135.18800354004,
+      "y": 48.52799987793
+    },
+    "arrival_coordinates": {
+      "x": 177.740997314453,
+      "y": 64.7349014282227
+    }
+  },
+  {
+    "departure_city": "Mineralnye Vody",
+    "arrival_city": "Magadan",
+    "delta_longitude": 15.6858978271484,
+    "flight_no": "PG0109",
+    "departure_longitude": 44.2251014709473,
+    "arrival_longitude": 59.9109992980957,
+    "departure_coordinates": {
+      "x": 43.081901550293,
+      "y": 44.2251014709473
+    },
+    "arrival_coordinates": {
+      "x": 150.720001220703,
+      "y": 59.9109992980957
+    }
+  },
+  {
+    "departure_city": "Yuzhno-Sakhalinsk",
+    "arrival_city": "Yakutsk",
+    "delta_longitude": 15.2046012878418,
+    "flight_no": "PG0582",
+    "departure_longitude": 46.8886985778809,
+    "arrival_longitude": 62.0932998657227,
+    "departure_coordinates": {
+      "x": 142.718002319336,
+      "y": 46.8886985778809
+    },
+    "arrival_coordinates": {
+      "x": 129.77099609375,
+      "y": 62.0932998657227
+    }
+  },
+  {
+    "departure_city": "Rostov",
+    "arrival_city": "Nyagan",
+    "delta_longitude": 14.8517990112516,
+    "flight_no": "PG0635",
+    "departure_longitude": 47.2582015991,
+    "arrival_longitude": 62.1100006103516,
+    "departure_coordinates": {
+      "x": 39.8180999756,
+      "y": 47.2582015991
+    },
+    "arrival_coordinates": {
+      "x": 65.6149978637695,
+      "y": 62.1100006103516
+    }
+  },
+  {
+    "departure_city": "Rostov",
+    "arrival_city": "Petrozavodsk",
+    "delta_longitude": 14.6269989013883,
+    "flight_no": "PG0557",
+    "departure_longitude": 47.2582015991,
+    "arrival_longitude": 61.8852005004883,
+    "departure_coordinates": {
+      "x": 39.8180999756,
+      "y": 47.2582015991
+    },
+    "arrival_coordinates": {
+      "x": 34.1547012329102,
+      "y": 61.8852005004883
+    }
+  },
+  {
+    "departure_city": "Sochi",
+    "arrival_city": "Yaroslavl",
+    "delta_longitude": 14.1107978820796,
+    "flight_no": "PG0421",
+    "departure_longitude": 43.449901580811,
+    "arrival_longitude": 57.5606994628906,
+    "departure_coordinates": {
+      "x": 39.956600189209,
+      "y": 43.449901580811
+    },
+    "arrival_coordinates": {
+      "x": 40.157398223877,
+      "y": 57.5606994628906
+    }
+  },
+  {
+    "departure_city": "Chita",
+    "arrival_city": "Novy Urengoy",
+    "delta_longitude": 14.0430979726562,
+    "flight_no": "PG0276",
+    "departure_longitude": 52.026299,
+    "arrival_longitude": 66.0693969726562,
+    "departure_coordinates": {
+      "x": 113.306,
+      "y": 52.026299
+    },
+    "arrival_coordinates": {
+      "x": 76.5203018188477,
+      "y": 66.0693969726562
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "departure_city": "Anadyr",
+    "departure_airport_name": "Ugolny Airport",
+    "arrival_city": "Moscow",
+    "arrival_airport_name": "Vnukovo International Airport",
+    "delta_latitude": -140.479496002153,
+    "flight_no": "PG0451",
+    "departure_latitude": 177.740997314453,
+    "arrival_latitude": 37.2615013123,
+    "departure_coordinates": {
+      "x": 177.740997314453,
+      "y": 64.7349014282227
+    },
+    "arrival_coordinates": {
+      "x": 37.2615013123,
+      "y": 55.5914993286
+    }
+  },
+  {
+    "departure_city": "Anadyr",
+    "departure_airport_name": "Ugolny Airport",
+    "arrival_city": "Moscow",
+    "arrival_airport_name": "Sheremetyevo International Airport",
+    "delta_latitude": -140.326397314453,
+    "flight_no": "PG0256",
+    "departure_latitude": 177.740997314453,
+    "arrival_latitude": 37.4146,
+    "departure_coordinates": {
+      "x": 177.740997314453,
+      "y": 64.7349014282227
+    },
+    "arrival_coordinates": {
+      "x": 37.4146,
+      "y": 55.972599
+    }
+  },
+  {
+    "departure_city": "Anadyr",
+    "departure_airport_name": "Ugolny Airport",
+    "arrival_city": "Moscow",
+    "arrival_airport_name": "Domodedovo International Airport",
+    "delta_latitude": -139.834697723389,
+    "flight_no": "PG0316",
+    "departure_latitude": 177.740997314453,
+    "arrival_latitude": 37.9062995910645,
+    "departure_coordinates": {
+      "x": 177.740997314453,
+      "y": 64.7349014282227
+    },
+    "arrival_coordinates": {
+      "x": 37.9062995910645,
+      "y": 55.4087982177734
+    }
+  },
+  {
+    "departure_city": "Petropavlovsk",
+    "departure_airport_name": "Yelizovo Airport",
+    "arrival_city": "Moscow",
+    "arrival_airport_name": "Domodedovo International Airport",
+    "delta_latitude": -120.547695159912,
+    "flight_no": "PG0145",
+    "departure_latitude": 158.453994750977,
+    "arrival_latitude": 37.9062995910645,
+    "departure_coordinates": {
+      "x": 158.453994750977,
+      "y": 53.1679000854492
+    },
+    "arrival_coordinates": {
+      "x": 37.9062995910645,
+      "y": 55.4087982177734
+    }
+  },
+  {
+    "departure_city": "Magadan",
+    "departure_airport_name": "Sokol Airport",
+    "arrival_city": "Mineralnye Vody",
+    "arrival_airport_name": "Mineralnyye Vody Airport",
+    "delta_latitude": -107.63809967041,
+    "flight_no": "PG0108",
+    "departure_latitude": 150.720001220703,
+    "arrival_latitude": 43.081901550293,
+    "departure_coordinates": {
+      "x": 150.720001220703,
+      "y": 59.9109992980957
+    },
+    "arrival_coordinates": {
+      "x": 43.081901550293,
+      "y": 44.2251014709473
+    }
+  },
+  {
+    "departure_city": "Yuzhno-Sakhalinsk",
+    "departure_airport_name": "Yuzhno-Sakhalinsk Airport",
+    "arrival_city": "Moscow",
+    "arrival_airport_name": "Sheremetyevo International Airport",
+    "delta_latitude": -105.303402319336,
+    "flight_no": "PG0704",
+    "departure_latitude": 142.718002319336,
+    "arrival_latitude": 37.4146,
+    "departure_coordinates": {
+      "x": 142.718002319336,
+      "y": 46.8886985778809
+    },
+    "arrival_coordinates": {
+      "x": 37.4146,
+      "y": 55.972599
+    }
+  },
+  {
+    "departure_city": "Khabarovsk",
+    "departure_airport_name": "Khabarovsk-Novy Airport",
+    "arrival_city": "St. Petersburg",
+    "arrival_airport_name": "Pulkovo Airport",
+    "delta_latitude": -104.925502777101,
+    "flight_no": "PG0357",
+    "departure_latitude": 135.18800354004,
+    "arrival_latitude": 30.2625007629395,
+    "departure_coordinates": {
+      "x": 135.18800354004,
+      "y": 48.52799987793
+    },
+    "arrival_coordinates": {
+      "x": 30.2625007629395,
+      "y": 59.8003005981445
+    }
+  },
+  {
+    "departure_city": "Yuzhno-Sakhalinsk",
+    "departure_airport_name": "Yuzhno-Sakhalinsk Airport",
+    "arrival_city": "Moscow",
+    "arrival_airport_name": "Domodedovo International Airport",
+    "delta_latitude": -104.811702728271,
+    "flight_no": "PG0169",
+    "departure_latitude": 142.718002319336,
+    "arrival_latitude": 37.9062995910645,
+    "departure_coordinates": {
+      "x": 142.718002319336,
+      "y": 46.8886985778809
+    },
+    "arrival_coordinates": {
+      "x": 37.9062995910645,
+      "y": 55.4087982177734
+    }
+  },
+  {
+    "departure_city": "Magadan",
+    "departure_airport_name": "Sokol Airport",
+    "arrival_city": "Syktyvkar",
+    "arrival_airport_name": "Syktyvkar Airport",
+    "delta_latitude": -99.8749008178711,
+    "flight_no": "PG0706",
+    "departure_latitude": 150.720001220703,
+    "arrival_latitude": 50.845100402832,
+    "departure_coordinates": {
+      "x": 150.720001220703,
+      "y": 59.9109992980957
+    },
+    "arrival_coordinates": {
+      "x": 50.845100402832,
+      "y": 61.6469993591309
+    }
+  },
+  {
+    "departure_city": "Yakutsk",
+    "departure_airport_name": "Yakutsk Airport",
+    "arrival_city": "St. Petersburg",
+    "arrival_airport_name": "Pulkovo Airport",
+    "delta_latitude": -99.5084953308105,
+    "flight_no": "PG0244",
+    "departure_latitude": 129.77099609375,
+    "arrival_latitude": 30.2625007629395,
+    "departure_coordinates": {
+      "x": 129.77099609375,
+      "y": 62.0932998657227
+    },
+    "arrival_coordinates": {
+      "x": 30.2625007629395,
+      "y": 59.8003005981445
+    }
+  }
+]

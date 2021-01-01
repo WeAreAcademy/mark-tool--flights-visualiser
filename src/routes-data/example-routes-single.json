@@ -1,0 +1,18 @@
+[
+  {
+    "flight_no": "PG0109",
+    "departure_city": "Mineralnye Vody",
+    "arrival_city": "Magadan",
+    "departure_coordinates": {
+      "x": 43.081901550293,
+      "y": 44.2251014709473
+    },
+    "arrival_coordinates": {
+      "x": 150.720001220703,
+      "y": 59.9109992980957
+    },
+    "delta_longitude": 15.6858978271484,
+    "departure_longitude": 44.2251014709473,
+    "arrival_longitude": 59.9109992980957
+  }
+]
