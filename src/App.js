@@ -35,7 +35,16 @@ export default function App() {
   function handleRoutesTextChange(e) {
     setRoutesText(e.target.value);
   }
-  const parsedRoutes = JSON.parse(routesText);
+
+  let parsedRoutes;
+  let jsonIsOk;
+  try {
+    parsedRoutes = JSON.parse(routesText);
+    jsonIsOk = true;
+  } catch (e) {
+    parsedRoutes = null;
+    jsonIsOk = false;
+  }
 
   return (
     <div className="App">
@@ -47,7 +56,7 @@ export default function App() {
         <MyMap routes={parsedRoutes} />
       )}
       <h3>Paste your routes JSON here</h3>
-      <textarea
+      <textarea className={jsonIsOk ? "ok" : "bad"}
         placeholder={"Your routes JSON here"}
         value={routesText}
         onChange={handleRoutesTextChange}

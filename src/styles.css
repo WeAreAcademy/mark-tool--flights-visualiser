@@ -1,4 +1,15 @@
 body {
+  --var-colour-a: #313a42;
+  --var-colour-green: #9aad2e;
+  --var-colour-c: #f0ae3c;
+  --var-colour-d: #df4822;
+  --var-colour-e: #8eac9b;
+  --var-colour-red: #cc3d3f;
+  --var-colour-g: #ec8b1c;
+  --var-colour-h: #1b9268;
+}
+
+body {
   padding: 0;
   margin: 0 auto;
   max-width: 1400px;
@@ -20,6 +31,12 @@ body * {
 textarea {
   padding: 10px;
   border-radius: 5px;
+}
+textarea.ok {
+  border: 4px solid var(--var-colour-green);
+}
+textarea.bad {
+  border: 4px solid var(--var-colour-red);
 }
 
 footer {
