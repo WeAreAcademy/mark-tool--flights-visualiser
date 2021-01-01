@@ -55,7 +55,7 @@ function FeedbackList({ feedback }) {
     return <>
       <h3>Problems:</h3>
       <ul className="feedback-list">
-        {feedback.map(fb => <li>{fb}</li>)}
+        {feedback.map((fb, ix) => <li key={ix}>{fb}</li>)}
       </ul></>
   } else {
     return null;
