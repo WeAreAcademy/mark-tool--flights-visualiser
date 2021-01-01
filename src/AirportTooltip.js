@@ -1,6 +1,6 @@
 import React from "react";
 import { Tooltip } from "react-leaflet";
-import { coordsToLatLngStr } from "./App";
+
 
 export function AirportTooltip({ routeDetail: rd, index, isArrival }) {
   function markupCity(city, coords, fancy) {
@@ -38,3 +38,5 @@ function Displacement({ from, to }) {
     </>
   );
 }
+
+function coordsToLatLngStr(pgPoint) { return `(${pgPoint.y.toFixed(2)}, ${pgPoint.x.toFixed(2)})`; }
