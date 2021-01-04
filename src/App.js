@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 
 //default routes data
-// import importedRoutes from "./routes-data/example-routes-single.json";
-import importedRoutes from "./routes-data/example-routes-south-north.json";
+import importedRoutes from "./routes-data/example-routes-single.json";
+// import importedRoutes from "./routes-data/example-routes-south-north.json";
 
 //CSS
 import "./styles.css";
